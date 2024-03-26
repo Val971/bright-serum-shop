@@ -4,7 +4,7 @@ export default function Banner() {
       <h2 className=' text-3xl md:text-4xl'> Explore Our Catalog</h2>
       <p>Find the best product for your face and body</p>
       <button className='bg-[#fff] p-3 min-w-[9rem] text-black'>
-        Subscribe
+        Discover
       </button>
     </div>
   );

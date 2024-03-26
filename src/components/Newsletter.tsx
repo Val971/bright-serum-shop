@@ -12,7 +12,7 @@ export default function Newsletter() {
         </p>
         <div className='flex flex-col md:flex-row gap-5 '>
           <input
-            className=' border-black text-black bg-lightPink border-2 p-2.5 min-w-[12rem]'
+            className=' border-black text-black bg-lightPink border-[1px] p-2.5 min-w-[12rem]'
             placeholder='Enter your email'
           />
           <button className='bg-black p-3 min-w-[9rem] text-[#fff]'>

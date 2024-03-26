@@ -19,7 +19,7 @@ export default function Hero() {
             className='bg-black p-3 min-w-[9rem] text-[#fff]'>
             Shop Now
           </button>
-          <button className=' border-black border-2 p-2.5 min-w-[12rem]'>
+          <button className=' border-black border-[1px] p-2.5 min-w-[12rem]'>
             Ask Us Anything
           </button>
         </div>

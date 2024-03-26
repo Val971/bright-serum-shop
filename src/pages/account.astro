@@ -2,15 +2,14 @@
 
 import Footer from '../components/Footer';
 import NavBar from '../components/NavBar';
-import Cart from '../components/Cart';
+import MyAccount from '../components/MyAccount';
 import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout title="Welcome to Astro.">
 	<main>
 		<NavBar client:load/>
-	
-	<Cart client:load/>
+        <MyAccount client:load/>
 		<Footer client:load/>
 	</main>
 </Layout>
